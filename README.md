@@ -2,7 +2,7 @@
 
 Simple app to register informations about users, with validation!
 
-![Alt text](/user_app.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/kbenrafik/user-app/master/user_app.png "Title")
 
 ## How to run the app
 
